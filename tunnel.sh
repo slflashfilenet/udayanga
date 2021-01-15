@@ -1,5 +1,5 @@
 #!/bin/sh
-# Udayanga Hacker™ Auto Script
+# mXA web™ Auto Script
 # Version : 2.1.0
 
 echo "After this operation, Stunnel, Dropbear, Squid and Badvpn will be installed on your server."
@@ -79,7 +79,7 @@ fi
 
 echo -e "\e[96mCreating dropbear banner\e[0m"
 cat >> "$FILE2" <<EOL
-<h4>&#9734; <font color="#20B2AA">Piratelk SERVER</font> &#9734;</h4>
+<h4>&#9734; <font color="#20B2AA">PRIVATE SERVER</font> &#9734;</h4>
 <font color="#8A2BE2">&#187; NO SPAM !!!</font><br>
 <font color="#A52A2A">&#187; NO DDOS !!!</font><br>
 <font color="#6495ED">&#187; NO HACKING !!!</font><br>
@@ -87,7 +87,7 @@ cat >> "$FILE2" <<EOL
 <font color="#9932CC">&#187; NO TORRENT !!!</font><br>
 <font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
 <br>
-<b><font color="#FF6347">Udayanga Hacker&trade;</font> 0755524605</b>
+<b><font color="#FF6347">Udayanga Pradeep&trade;</font> pirateteam</b>
 <br>
 EOL
 
@@ -249,8 +249,8 @@ echo " "
 echo -e "\e[96mInstallation has been completed!!\e[0m"
 echo " "
 echo "--------------------------- Configuration Setup Server -------------------------"
-echo "--------------- Created by Udayanga Pradeep ----------------"
-echo "                                Copyright Udayanga Hacker™                              "
+echo "--------------- Created by @ultimate_lurker69 & @CHATHURANGA_91 ----------------"
+echo "                                Copyright mAX web™                              "
 echo " "
 echo "Server Information"
 echo "   - IP address 	: ${pubip}"
